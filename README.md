@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Resume Preview](img/exemple.png)](hhttps://dannick.netlify.com/)
+[![Resume Preview](./img/exemple.png)](hhttps://dannick.netlify.com/)
 
 **[View Live Preview](https://dannick.netlify.com/)**
 
@@ -13,10 +13,8 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
+* Clone the repo: `git clone https://github.com/dannickstark/myPortfolio.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/dannickstark/myPortfolio)
 
 ## Usage
 
